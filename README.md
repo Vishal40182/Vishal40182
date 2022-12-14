@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishal40182&theme=github" alt="Prakhar's stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishal40182&theme=github" alt="Prakhar's stats" />
-</p>
+</p> -->
 
 <!-- <p align="center"> 
   <img src="https://github.com/Vishal40182/github-stats/blob/master/generated/overview.svg" alt="Contributions" />
@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 </p> -->
 
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishal40182&show_icons=true&theme=dracula" /></p> -->
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishal40182&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
-</p>
+</p> -->
 
 ## Trophies
 <details><summary>Discover</summary>
